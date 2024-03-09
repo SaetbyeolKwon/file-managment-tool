@@ -1,7 +1,6 @@
 document.addEventListener('DOMContentLoaded', async function() {
     let items = [];
     try {
-        // Get the script tag and read the data-jsonfile attribute
         const scriptTag = document.currentScript || document.querySelector('script[data-jsonfile]');
         const jsonFileName = scriptTag.getAttribute('data-jsonfile');
         const response = await fetch(jsonFileName);
@@ -23,13 +22,13 @@ document.addEventListener('DOMContentLoaded', async function() {
     tableContainer.className = 'table-container';
     fileList.appendChild(tableContainer);
 
-    // Create header
+    // header
     const headerRow = document.createElement('div');
     headerRow.className = 'row';
     headerRow.innerHTML = `<div class="cell">Name</div><div class="cell">Color</div><div class="drop-area">Drag & Drop File Here</div>`;
     tableContainer.appendChild(headerRow);
 
-    // Generate rows for items with separate drop areas
+    // rows for items with separate drop areas
     items.forEach(item => {
         const row = document.createElement('div');
         row.className = 'row';
@@ -52,7 +51,7 @@ document.addEventListener('DOMContentLoaded', async function() {
             const file = e.dataTransfer.files[0];
             filesToZip[item.name] = file;
             dropCell.textContent = `${file.name}`;
-            dropCell.classList.add('file-uploaded'); // Change background color
+            dropCell.classList.add('file-uploaded'); // Change background color when file is uploaded
         });
 
         row.appendChild(nameCell);
@@ -65,7 +64,7 @@ document.addEventListener('DOMContentLoaded', async function() {
     // zip and download
     document.getElementById('zipButton').addEventListener('click', () => {
         const zipName = prompt("Please enter a name for the zip file:", "Batch.zip");
-        if (zipName) { // Proceed if a name was entered
+        if (zipName) {
             const zip = new JSZip();
             Object.keys(filesToZip).forEach(name => {
                 const file = filesToZip[name];
@@ -74,7 +73,7 @@ document.addEventListener('DOMContentLoaded', async function() {
                 }
             });
             zip.generateAsync({type: 'blob'}).then(content => {
-                saveAs(content, zipName); // Use the provided name for the zip file
+                saveAs(content, zipName);
             });
         }
     });

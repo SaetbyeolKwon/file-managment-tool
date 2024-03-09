@@ -1,7 +1,7 @@
 body {
     font-family: helvetica, Arial, sans-serif;
 }
-/* Updated layout with background colors for better differentiation */
+
 .table-container {
     margin: 20px auto;
     display: table;
@@ -18,7 +18,7 @@ body {
     border: 1px solid #ddd;
     padding: 8px;
     vertical-align: middle;
-    background-color: #f9f9f9; /* Light grey for name and color cells */
+    background-color: #f9f9f9;
 }
 
 .drop-area {
@@ -28,31 +28,55 @@ body {
     vertical-align: middle;
     text-align: center;
     cursor: pointer;
-    background-color: #fffd6e; /* Soft green for drop area */
+    background-color: #fffd6e;
 }
 
 .table-header {
-    background-color: #e1e1e1; /* Slightly darker grey for headers */
+    background-color: #e1e1e1;
     font-weight: bold;
 }
 
 .file-uploaded {
-    background-color: #83dd86; /* Slightly darker green to indicate successful upload */
+    background-color: #83dd86;
 }
 
 #zipButton {
     display: block;
-    width: 200px; /* Set a specific width */
-    margin: 20px auto; /* Center the button */
-    padding: 10px 0; /* Increase padding for bigger size */
-    font-size: 16px; /* Larger font size */
+    width: 200px;
+    margin: 20px auto;
+    padding: 10px 0;
+    font-size: 16px;
     cursor: pointer;
-    background-color: #4CAF50; /* Green background */
-    color: white; /* White text */
+    background-color: #4CAF50;
+    color: white;
     border: none;
-    border-radius: 5px; /* Rounded corners */
+    border-radius: 5px;
 }
 
 #zipButton:hover {
-    background-color: #45a049; /* Slightly darker green on hover */
+    background-color: #45a049;
+}
+
+#main-nav ul {
+    list-style: none;
+    padding-left: 0;
+    text-align: center;
+}
+
+#main-nav ul li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+#main-nav ul li a {
+    text-decoration: none;
+    font-size: 16px;
+    padding: 10px;
+    background-color: #007BFF;
+    color: white;
+    border-radius: 5px;
+}
+
+#main-nav ul li a:hover {
+    background-color: #0056b3;
 }
