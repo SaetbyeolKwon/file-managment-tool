@@ -1,184 +1,176 @@
 document.addEventListener('DOMContentLoaded', function() {
     const items = [
         {
-            "name": "Durand Extra Narrow-668-ODF",
+            "name": "Sun_Durand Extra Wide LBF-668-SRW",
             "color": "Rose Water"
         },
         {
-            "name": "Durand Extra Wide LBF-668-ODF",
+            "name": "Sun_Durand Extra Wide-668-SRW",
             "color": "Rose Water"
         },
         {
-            "name": "Durand Extra Wide-500-ODF",
+            "name": "Sun_Durand Medium-500-SRW",
             "color": "Crystal"
         },
         {
-            "name": "Durand Extra Wide-668-ODF",
+            "name": "Sun_Durand Medium-668-SRW",
             "color": "Rose Water"
         },
         {
-            "name": "Durand LBF-668-ODF",
+            "name": "Sun_Durand Medium-723-SRW",
+            "color": "Green Garnet Fade"
+        },
+        {
+            "name": "Sun_Durand Narrow-668-SRW",
             "color": "Rose Water"
         },
         {
-            "name": "Durand Medium-500-ODF",
-            "color": "Crystal"
-        },
-        {
-            "name": "Durand Medium-668-ODF",
+            "name": "Sun_Durand Wide LBF-668-SRW",
             "color": "Rose Water"
         },
         {
-            "name": "Durand Medium-911-ODF",
-            "color": "Crystal with Oak Barrel"
-        },
-        {
-            "name": "Durand Narrow-500-ODF",
+            "name": "Sun_Durand Wide-500-SRW",
             "color": "Crystal"
         },
         {
-            "name": "Durand Narrow-668-ODF",
+            "name": "Sun_Durand Wide-668-SRW",
             "color": "Rose Water"
         },
         {
-            "name": "Durand Wide LBF-500-ODF",
-            "color": "Crystal"
+            "name": "Sun_Percey Wide-319-SRW",
+            "color": "Viridian"
         },
         {
-            "name": "Durand Wide LBF-668-ODF",
-            "color": "Rose Water"
+            "name": "Sun_Percey-319-SRW",
+            "color": "Viridian"
         },
         {
-            "name": "Durand Wide-500-ODF",
-            "color": "Crystal"
-        },
-        {
-            "name": "Durand Wide-668-ODF",
-            "color": "Rose Water"
-        },
-        {
-            "name": "Durand Wide-704-ODF",
-            "color": "Palm Crystal"
-        },
-        {
-            "name": "Durand Wide-911-ODF",
-            "color": "Crystal with Oak Barrel"
-        },
-        {
-            "name": "Percey Extra Narrow-500-ODF",
-            "color": "Crystal"
-        },
-        {
-            "name": "Percey Extra Wide LBF-207-ODF",
-            "color": "Chestnut Crystal"
-        },
-        {
-            "name": "Percey Extra Wide-207-ODF",
-            "color": "Chestnut Crystal"
-        },
-        {
-            "name": "Percey LBF-207-ODF",
-            "color": "Chestnut Crystal"
-        },
-        {
-            "name": "Percey Narrow-207-ODF",
-            "color": "Chestnut Crystal"
-        },
-        {
-            "name": "Percey Wide LBF-207-ODF",
-            "color": "Chestnut Crystal"
-        },
-        {
-            "name": "Percey Wide-207-ODF",
-            "color": "Chestnut Crystal"
-        },
-        {
-            "name": "Percey Wide-706-ODF",
-            "color": "Seaweed Crystal with Amber Tortoise"
-        },
-        {
-            "name": "Percey-207-ODF",
-            "color": "Chestnut Crystal"
-        },
-        {
-            "name": "Percey-500-ODF",
-            "color": "Crystal"
-        },
-        {
-            "name": "Percey-570-ODF",
-            "color": "Crystal with Oak Barrel and Blue Bay"
-        },
-        {
-            "name": "Percey-706-ODF",
-            "color": "Seaweed Crystal with Amber Tortoise"
-        },
-        {
-            "name": "Chamberlain Extra Wide-500-ODF",
-            "color": "Crystal"
-        },
-        {
-            "name": "Chamberlain LBF-500-ODF",
-            "color": "Crystal"
-        },
-        {
-            "name": "Chamberlain Wide-500-ODF",
-            "color": "Crystal"
-        },
-        {
-            "name": "Chamberlain-500-ODF",
-            "color": "Crystal"
-        },
-        {
-            "name": "Esme Epigraph-1345-ODF",
+            "name": "Sun_Esme Epigraph-1345-SRW",
             "color": "Bellflower Crystal with Polished Gold"
         },
         {
-            "name": "Esme LBF-500-ODF",
+            "name": "Sun_Esme LBF-500-SRW",
             "color": "Crystal"
         },
         {
-            "name": "Esme Wide-500-ODF",
+            "name": "Sun_Esme Wide-500-SRW",
             "color": "Crystal"
         },
         {
-            "name": "Esme-500-ODF",
+            "name": "Sun_Esme-500-SRW",
             "color": "Crystal"
         },
         {
-            "name": "Wilkie Extra Narrow-165-ODF",
+            "name": "Carlton Extra Wide-500-ODF",
+            "color": "Crystal"
+        },
+        {
+            "name": "Carlton Extra Wide-714-ODF",
+            "color": "Seaweed Crystal"
+        },
+        {
+            "name": "Carlton LBF-500-ODF",
+            "color": "Crystal"
+        },
+        {
+            "name": "Carlton LBF-714-ODF",
+            "color": "Seaweed Crystal"
+        },
+        {
+            "name": "Carlton Medium-500-ODF",
+            "color": "Crystal"
+        },
+        {
+            "name": "Carlton Medium-714-ODF",
+            "color": "Seaweed Crystal"
+        },
+        {
+            "name": "Carlton Wide LBF-500-ODF",
+            "color": "Crystal"
+        },
+        {
+            "name": "Carlton Wide LBF-714-ODF",
+            "color": "Seaweed Crystal"
+        },
+        {
+            "name": "Carlton Wide-500-ODF",
+            "color": "Crystal"
+        },
+        {
+            "name": "Carlton Wide-714-ODF",
+            "color": "Seaweed Crystal"
+        },
+        {
+            "name": "Hughes Wide-371-ODF",
+            "color": "Pacific Crystal"
+        },
+        {
+            "name": "Hughes-371-ODF",
+            "color": "Pacific Crystal"
+        },
+        {
+            "name": "Hughes-723-ODF",
+            "color": "Green Garnet Fade"
+        },
+        {
+            "name": "Crane LBF-165-ODF",
             "color": "Sea Glass Grey"
         },
         {
-            "name": "Wilkie Extra Narrow-325-ODF",
+            "name": "Crane LBF-325-ODF",
             "color": "Eastern Bluebird Fade"
         },
         {
-            "name": "Wilkie Extra Wide LBF-325-ODF",
-            "color": "Eastern Bluebird Fade"
-        },
-        {
-            "name": "Wilkie Extra Wide-165-ODF",
+            "name": "Crane-165-ODF",
             "color": "Sea Glass Grey"
         },
         {
-            "name": "Wilkie Extra Wide-325-ODF",
+            "name": "Crane-325-ODF",
             "color": "Eastern Bluebird Fade"
         },
         {
-            "name": "Wilkie LBF-325-ODF",
-            "color": "Eastern Bluebird Fade"
-        },
-        {
-            "name": "Wilkie-165-ODF",
-            "color": "Sea Glass Grey"
-        },
-        {
-            "name": "Wilkie-325-ODF",
-            "color": "Eastern Bluebird Fade"
-        },
-        {
-            "name": "Wilkie-506-ODF",
+            "name": "Crane-506-ODF",
             "color": "Crystal with English Oak"
+        },
+        {
+            "name": "Whalen-332-ODF",
+            "color": "Driftwood Fade"
+        },
+        {
+            "name": "Whalen-500-ODF",
+            "color": "Crystal"
+        },
+        {
+            "name": "Daisy Extra Narrow-615-ODF",
+            "color": "Tea Rose Fade"
+        },
+        {
+            "name": "Daisy Medium LBF-615-ODF",
+            "color": "Tea Rose Fade"
+        },
+        {
+            "name": "Daisy Narrow LBF-615-ODF",
+            "color": "Tea Rose Fade"
+        },
+        {
+            "name": "Daisy Narrow-615-ODF",
+            "color": "Tea Rose Fade"
+        },
+        {
+            "name": "Daisy Wide LBF-615-ODF",
+            "color": "Tea Rose Fade"
+        },
+        {
+            "name": "Daisy Wide LBF-623-ODF",
+            "color": "Cardinal Crystal"
+        },
+        {
+            "name": "Daisy Wide-615-ODF",
+            "color": "Tea Rose Fade"
+        },
+        {
+            "name": "Daisy-615-ODF",
+            "color": "Tea Rose Fade"
         }
     ];
     const fileList = document.getElementById('fileList');
