@@ -1,0 +1,58 @@
+body {
+    font-family: helvetica, Arial, sans-serif;
+}
+/* Updated layout with background colors for better differentiation */
+.table-container {
+    margin: 20px auto;
+    display: table;
+    width: 60%;
+    border-collapse: collapse;
+}
+
+.row {
+    display: table-row;
+}
+
+.cell {
+    display: table-cell;
+    border: 1px solid #ddd;
+    padding: 8px;
+    vertical-align: middle;
+    background-color: #f9f9f9; /* Light grey for name and color cells */
+}
+
+.drop-area {
+    display: table-cell;
+    border: 1px solid #ddd;
+    padding: 8px;
+    vertical-align: middle;
+    text-align: center;
+    cursor: pointer;
+    background-color: #fffd6e; /* Soft green for drop area */
+}
+
+.table-header {
+    background-color: #e1e1e1; /* Slightly darker grey for headers */
+    font-weight: bold;
+}
+
+.file-uploaded {
+    background-color: #83dd86; /* Slightly darker green to indicate successful upload */
+}
+
+#zipButton {
+    display: block;
+    width: 200px; /* Set a specific width */
+    margin: 20px auto; /* Center the button */
+    padding: 10px 0; /* Increase padding for bigger size */
+    font-size: 16px; /* Larger font size */
+    cursor: pointer;
+    background-color: #4CAF50; /* Green background */
+    color: white; /* White text */
+    border: none;
+    border-radius: 5px; /* Rounded corners */
+}
+
+#zipButton:hover {
+    background-color: #45a049; /* Slightly darker green on hover */
+}
