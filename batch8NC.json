@@ -1,0 +1,330 @@
+[
+    {
+        "name": "Landon Wide-708-ODF",
+        "color": "Forest Green"
+    },
+    {
+        "name": "Landon-200-ODF",
+        "color": "Whiskey Tortoise"
+    },
+    {
+        "name": "Landon-708-ODF",
+        "color": "Forest Green"
+    },
+    {
+        "name": "Langley Medium-3102-ODF",
+        "color": "Jet Black with Polished Gold"
+    },
+    {
+        "name": "Langley Medium-7200-ODF",
+        "color": "Opal Tortoise with Riesling"
+    },
+    {
+        "name": "Langley Wide-3102-ODF",
+        "color": "Jet Black with Polished Gold"
+    },
+    {
+        "name": "Sun_Langley Wide-3102-SRW",
+        "color": "Jet Black with Polished Gold"
+    },
+    {
+        "name": "Langley Wide-7200-ODF",
+        "color": "Opal Tortoise with Riesling"
+    },
+    {
+        "name": "Sun_Langley Wide-7200-SRW",
+        "color": "Opal Tortoise with Riesling"
+    },
+    {
+        "name": "Whittier Wide-3100-ODF",
+        "color": "Jet Black with Polished Gold"
+    },
+    {
+        "name": "Whittier-3100-ODF",
+        "color": "Jet Black with Polished Gold"
+    },
+    {
+        "name": "Sun_Whittier-3100-SRW",
+        "color": "Jet Black with Polished Gold"
+    },
+    {
+        "name": "Renaldo-2155-ODF",
+        "color": "Antique Silver"
+    },
+    {
+        "name": "Renaldo-2403-ODF",
+        "color": "Polished Gold"
+    },
+    {
+        "name": "Lupita Wide-1120-ODF",
+        "color": "Oak Barrel with Polished Gold"
+    },
+    {
+        "name": "Aram Wide-2101-ODF",
+        "color": "Brushed Ink"
+    },
+    {
+        "name": "Sun_Aram Wide-2101-SRW",
+        "color": "Brushed Ink"
+    },
+    {
+        "name": "Aram Wide-2403-ODF",
+        "color": "Polished Gold"
+    },
+    {
+        "name": "Sun_Aram Wide-2403-SRW",
+        "color": "Polished Gold"
+    },
+    {
+        "name": "Roosevelt Extra Wide-101-ODF",
+        "color": "Jet Black Matte"
+    },
+    {
+        "name": "Sun_Roosevelt Extra Wide-101-SRW",
+        "color": "Jet Black Matte"
+    },
+    {
+        "name": "Roosevelt Extra Wide-175-ODF",
+        "color": "Striped Pacific"
+    },
+    {
+        "name": "Sun_Roosevelt Extra Wide-175-SRW",
+        "color": "Striped Pacific"
+    },
+    {
+        "name": "Roosevelt Wide-101-ODF",
+        "color": "Jet Black Matte"
+    },
+    {
+        "name": "Sun_Roosevelt Wide-101-SRW",
+        "color": "Jet Black Matte"
+    },
+    {
+        "name": "Roosevelt Wide-175-ODF",
+        "color": "Striped Pacific"
+    },
+    {
+        "name": "Sun_Roosevelt Wide-175-SRW",
+        "color": "Striped Pacific"
+    },
+    {
+        "name": "Keating-199-ODF",
+        "color": "Oak Barrel Matte"
+    },
+    {
+        "name": "Keating-403-ODF",
+        "color": "Ink Wash Crystal"
+    },
+    {
+        "name": "Hani Wide-2120-ODF",
+        "color": "Brushed Ink with Polished Gold"
+    },
+    {
+        "name": "Hani Wide-2403-ODF",
+        "color": "Polished Gold"
+    },
+    {
+        "name": "Gus Wide-2152-ODF",
+        "color": "Polished Silver"
+    },
+    {
+        "name": "Gus Wide-2403-ODF",
+        "color": "Polished Gold"
+    },
+    {
+        "name": "Dawson Wide-225-ODF",
+        "color": "Oak Barrel"
+    },
+    {
+        "name": "Sun_Dawson Wide-225-SRW",
+        "color": "Oak Barrel"
+    },
+    {
+        "name": "Dawson-225-ODF",
+        "color": "Oak Barrel"
+    },
+    {
+        "name": "Callen-9225-ODF",
+        "color": "Oak Barrel with Riesling"
+    },
+    {
+        "name": "Sun_Callen-9225-SRW",
+        "color": "Oak Barrel with Riesling"
+    },
+    {
+        "name": "Sun_Raider Extra Wide-2152-SRW",
+        "color": "Polished Silver"
+    },
+    {
+        "name": "Sun_Raider Extra Wide-2403-SRW",
+        "color": "Polished Gold"
+    },
+    {
+        "name": "Sun_Raider Narrow-2152-SRW",
+        "color": "Polished Silver"
+    },
+    {
+        "name": "Sun_Raider Narrow-2403-SRW",
+        "color": "Polished Gold"
+    },
+    {
+        "name": "Sun_Raider Wide-2152-SRW",
+        "color": "Polished Silver"
+    },
+    {
+        "name": "Sun_Raider Wide-2233-SRW",
+        "color": "Rose Gold"
+    },
+    {
+        "name": "Raider Wide-2403-ODF",
+        "color": "Polished Gold"
+    },
+    {
+        "name": "Sun_Raider Wide-2403-SRW",
+        "color": "Polished Gold"
+    },
+    {
+        "name": "Sun_Raider Wide-2415-SRW",
+        "color": "Brushed Ink"
+    },
+    {
+        "name": "Sun_Raider-2101-SRW",
+        "color": "Brushed Ink"
+    },
+    {
+        "name": "Sun_Raider-2120-SRW",
+        "color": "Brushed Ink with Polished Gold"
+    },
+    {
+        "name": "Sun_Raider-2152-SRW",
+        "color": "Polished Silver"
+    },
+    {
+        "name": "Sun_Raider-2403-SRW",
+        "color": "Polished Gold"
+    },
+    {
+        "name": "Cosgrove Wide-200-ODF",
+        "color": "Whiskey Tortoise"
+    },
+    {
+        "name": "Cosgrove Wide-732-ODF",
+        "color": "Olive Matte"
+    },
+    {
+        "name": "Talib Wide-1160-ODF",
+        "color": "Oak Barrel Matte with Polished Gold"
+    },
+    {
+        "name": "Yamini Extra Wide-100-ODF",
+        "color": "Jet Black"
+    },
+    {
+        "name": "Sun_Yamini Extra Wide-100-SRW",
+        "color": "Jet Black"
+    },
+    {
+        "name": "Yamini Extra Wide-413-ODF",
+        "color": "Sunbeam Tortoise Fade"
+    },
+    {
+        "name": "Sun_Yamini Extra Wide-413-SRW",
+        "color": "Sunbeam Tortoise Fade"
+    },
+    {
+        "name": "Herman-100-ODF",
+        "color": "Jet Black"
+    },
+    {
+        "name": "Herman-476-ODF",
+        "color": "Striped Artichoke"
+    },
+    {
+        "name": "Gideon Wide-281-ODF",
+        "color": "Sugar Maple Fade"
+    },
+    {
+        "name": "Sun_Gideon Wide-281-SRW",
+        "color": "Sugar Maple Fade"
+    },
+    {
+        "name": "Maeve-7100-ODF",
+        "color": "Jet Black with Rose Gold"
+    },
+    {
+        "name": "Maeve-7286-ODF",
+        "color": "Blush Tortoise"
+    },
+    {
+        "name": "Aiko Wide-4253-ODF",
+        "color": "Feather Moss with Riesling"
+    },
+    {
+        "name": "Sun_Aiko Wide-4253-SRW",
+        "color": "Feather Moss with Riesling"
+    },
+    {
+        "name": "Aiko Wide-4254-ODF",
+        "color": "Oak Barrel with Riesling"
+    },
+    {
+        "name": "Sun_Aiko Wide-4254-SRW",
+        "color": "Oak Barrel with Riesling"
+    },
+    {
+        "name": "Madeleine Wide-214-ODF",
+        "color": "Oyster Shell Tortoise"
+    },
+    {
+        "name": "Anselm Narrow-247-ODF",
+        "color": "Acorn Tortoise"
+    },
+    {
+        "name": "Hannon Wide-100-ODF",
+        "color": "Jet Black"
+    },
+    {
+        "name": "Sun_Hannon Wide-100-SRW",
+        "color": "Jet Black"
+    },
+    {
+        "name": "Hannon Wide-413-ODF",
+        "color": "Sunbeam Tortoise Fade"
+    },
+    {
+        "name": "Garrison Narrow-2158-ODF",
+        "color": "Polished Silver With Oak Barrel"
+    },
+    {
+        "name": "Garrison-1709-ODF",
+        "color": "Polished Gold with Ivy"
+    },
+    {
+        "name": "Garrison-2158-ODF",
+        "color": "Polished Silver With Oak Barrel"
+    },
+    {
+        "name": "Caldwell Wide-2250-ODF",
+        "color": "Brushed Navy"
+    },
+    {
+        "name": "Caldwell Wide-2306-ODF",
+        "color": "Carbon"
+    },
+    {
+        "name": "Morgan Medium-213-ODF",
+        "color": "Mesa Tortoise"
+    },
+    {
+        "name": "Sun_Morgan Medium-213-SRW",
+        "color": "Mesa Tortoise"
+    },
+    {
+        "name": "Morgan Medium-377-ODF",
+        "color": "Baltic Blue"
+    },
+    {
+        "name": "Morgan Narrow-213-ODF",
+        "color": "Mesa Tortoise"
+    }
+]
