@@ -28,6 +28,25 @@ document.addEventListener('DOMContentLoaded', async function() {
     headerRow.innerHTML = `<div class="cell">Name</div><div class="cell">Color</div><div class="drop-area">Drag & Drop File Here</div>`;
     tableContainer.appendChild(headerRow);
 
+    // compare the name on the list and actual file name
+    function checkFileName(dropCell, itemName, fileName) {
+        // Convert strings to lowercase so it's not case sensitive.
+        const itemNameLower = itemName.toLowerCase();
+        const fileNameLower = fileName.toLowerCase();
+
+        const hasWordInItem = (word) => itemNameLower.includes(word.toLowerCase()) && !fileNameLower.includes(word.toLowerCase());
+        const hasWordInFile = (word) => !itemNameLower.includes(word.toLowerCase()) && fileNameLower.includes(word.toLowerCase());
+
+        const hasWord = (word) => itemName.includes(word) && !fileName.includes(word);
+        if (hasWordInItem('Sun') || hasWordInItem('LBF') || hasWordInFile('Sun') || hasWordInFile('LBF')) {
+            dropCell.classList.remove('file-uploaded');
+            dropCell.classList.add('file-error');
+        } else {
+            dropCell.classList.add('file-uploaded');
+            dropCell.classList.remove('file-error');
+        }
+    }
+
     // rows for items with separate drop areas
     items.forEach(item => {
         const row = document.createElement('div');
@@ -52,6 +71,7 @@ document.addEventListener('DOMContentLoaded', async function() {
             filesToZip[item.name] = file;
             dropCell.textContent = `${file.name}`;
             dropCell.classList.add('file-uploaded'); // Change background color when file is uploaded
+            checkFileName(dropCell, item.name, file.name);
         });
 
         row.appendChild(nameCell);

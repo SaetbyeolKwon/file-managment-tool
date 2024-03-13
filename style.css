@@ -40,6 +40,10 @@ body {
     background-color: #83dd86;
 }
 
+.file-error {
+    background-color: rgb(255, 194, 79);
+}
+
 #zipButton {
     display: block;
     width: 200px;
