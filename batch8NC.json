@@ -326,5 +326,129 @@
     {
         "name": "Morgan Narrow-213-ODF",
         "color": "Mesa Tortoise"
+    },
+    {
+        "name": "Lydell Extra Narrow-543-ODF",
+        "color": "Truffle Tortoise"
+    },
+    {
+        "name": "Lydell-543-ODF",
+        "color": "Truffle Tortoise"
+    },
+    {
+        "name": "Tiago Wide-3711-ODF",
+        "color": "Layered Fiddle Leaf with Riesling"
+    },
+    {
+        "name": "Sun_Tiago Wide-3711-SRW",
+        "color": "Layered Fiddle Leaf with Riesling"
+    },
+    {
+        "name": "Callum Wide-513-ODF",
+        "color": "Raven Matte"
+    },
+    {
+        "name": "Sun_Callum Wide-513-SRW",
+        "color": "Raven Matte"
+    },
+    {
+        "name": "Callum Wide-721-ODF",
+        "color": "Balsam Matte"
+    },
+    {
+        "name": "Sun_Callum Wide-721-SRW",
+        "color": "Balsam Matte"
+    },
+    {
+        "name": "Stockton LBF-200-ODF",
+        "color": "Whiskey Tortoise"
+    },
+    {
+        "name": "Yoojin Narrow-1158-ODF",
+        "color": "Brioche Tortoise with Riesling"
+    },
+    {
+        "name": "Hartman Wide-306-ODF",
+        "color": "Caramel Tortoise"
+    },
+    {
+        "name": "Burke-103-ODF",
+        "color": "Black Matte Eclipse"
+    },
+    {
+        "name": "Armando-2152-ODF",
+        "color": "Polished Silver"
+    },
+    {
+        "name": "Armando-2403-ODF",
+        "color": "Polished Gold"
+    },
+    {
+        "name": "Bromley Wide-187-ODF",
+        "color": "Bluebonnet Tortoise"
+    },
+    {
+        "name": "Bromley Wide-243-ODF",
+        "color": "Black Walnut"
+    },
+    {
+        "name": "Montague Wide-1120-ODF",
+        "color": "Oak Barrel with Polished Gold"
+    },
+    {
+        "name": "Sun_Montague Wide-1120-SRW",
+        "color": "Oak Barrel with Polished Gold"
+    },
+    {
+        "name": "Tilley-263-ODF",
+        "color": "Smoky Pearl Tortoise"
+    },
+    {
+        "name": "Sun_Tilley-263-SRW",
+        "color": "Smoky Pearl Tortoise"
+    },
+    {
+        "name": "Tilley-281-ODF",
+        "color": "Sugar Maple Fade"
+    },
+    {
+        "name": "Sun_Tilley-281-SRW",
+        "color": "Sugar Maple Fade"
+    },
+    {
+        "name": "Vaughan-265-ODF",
+        "color": "Burnt Lemon Tortoise"
+    },
+    {
+        "name": "Braden Wide-100-ODF",
+        "color": "Jet Black"
+    },
+    {
+        "name": "Sun_Braden Wide-100-SRW",
+        "color": "Jet Black"
+    },
+    {
+        "name": "Sun_Braden Wide-167-SRW",
+        "color": "Dove Grey"
+    },
+    {
+        "name": "Sun_Braden Wide-267-SRW",
+        "color": "Sequoia Tortoise"
+    },
+    {
+        "name": "Halton-3102-ODF",
+        "color": "Jet Black with Polished Gold"
+    },
+    {
+        "name": "Gilmore-238-ODF",
+        "color": "Teal Tortoise"
+    },
+    {
+        "name": "Gilmore-810-ODF",
+        "color": "Mangrove with Mojave Mauve"
+    },
+    {
+        "name": "Gilbert-200-ODF",
+        "color": "Whiskey Tortoise"
     }
 ]

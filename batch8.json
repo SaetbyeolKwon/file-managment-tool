@@ -78,5 +78,73 @@
     {
         "name": "Sun_Morgan Medium-712-SRW",
         "color": "Rosemary Crystal"
+    },
+    {
+        "name": "Lydell-182-ODF",
+        "color": "Nectar"
+    },
+    {
+        "name": "Tiago Wide-4712-ODF",
+        "color": "Layered Hazelnut Tortoise with Polished Gold"
+    },
+    {
+        "name": "Stockton LBF-165-ODF",
+        "color": "Sea Glass Grey"
+    },
+    {
+        "name": "Yoojin Narrow-1707-ODF",
+        "color": "Cactus Crystal with Riesling"
+    },
+    {
+        "name": "Hartman Wide-717-ODF",
+        "color": "Striped Cypress"
+    },
+    {
+        "name": "Burke-203-ODF",
+        "color": "Tennessee Whiskey"
+    },
+    {
+        "name": "Montague Wide-1711-ODF",
+        "color": "Palm Crystal with Riesling"
+    },
+    {
+        "name": "Sun_Montague Wide-1711-SRW",
+        "color": "Palm Crystal with Riesling"
+    },
+    {
+        "name": "Vaughan-325-ODF",
+        "color": "Eastern Bluebird Fade"
+    },
+    {
+        "name": "Elina-1365-ODF",
+        "color": "Blue Agave with Polished Gold"
+    },
+    {
+        "name": "Braden Wide-500-ODF",
+        "color": "Crystal"
+    },
+    {
+        "name": "Sun_Braden Wide-500-SRW",
+        "color": "Crystal"
+    },
+    {
+        "name": "Halton-1177-ODF",
+        "color": "Nutmeg Crystal with Riesling"
+    },
+    {
+        "name": "Gilmore-668-ODF",
+        "color": "Rose Water"
+    },
+    {
+        "name": "Gilbert-165-ODF",
+        "color": "Sea Glass Grey"
+    },
+    {
+        "name": "Sun_Esperanza Wide-2379-ODF",
+        "color": "Praline with Polished Gold"
+    },
+    {
+        "name": "Sun_Esperanza Wide-2379-SRW",
+        "color": "Praline with Polished Gold"
     }
 ]
