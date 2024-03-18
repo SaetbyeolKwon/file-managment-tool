@@ -1,0 +1,390 @@
+[
+    {
+        "name": "Sun_Belmar Wide-2403-SRW",
+        "color": "Polished Gold"
+    },
+    {
+        "name": "Belmar-2152-ODF",
+        "color": "Polished Silver"
+    },
+    {
+        "name": "Belmar-2403-ODF",
+        "color": "Polished Gold"
+    },
+    {
+        "name": "Corwin-2156-ODF",
+        "color": "Polished Silver with Blue"
+    },
+    {
+        "name": "Corwin-2411-ODF",
+        "color": "Polished Gold with Whiskey Tortoise Matte"
+    },
+    {
+        "name": "Atchison-9225-ODF",
+        "color": "Oak Barrel with Riesling"
+    },
+    {
+        "name": "Sun_Atchison-9225-SRW",
+        "color": "Oak Barrel with Riesling"
+    },
+    {
+        "name": "Hemmings-269-ODF",
+        "color": "Butterscotch Tortoise"
+    },
+    {
+        "name": "Rustin-1224-ODF",
+        "color": "Olive with Riesling"
+    },
+    {
+        "name": "Sun_Rustin-1224-SRW",
+        "color": "Olive with Riesling"
+    },
+    {
+        "name": "Rustin-1225-ODF",
+        "color": "Root Beer with Brushed Ink"
+    },
+    {
+        "name": "Sun_Rustin-1225-SRW",
+        "color": "Root Beer with Brushed Ink"
+    },
+    {
+        "name": "Celia Wide-1356-ODF",
+        "color": "Mint with Polished Gold"
+    },
+    {
+        "name": "Copley Wide-392-ODF",
+        "color": "Marina with Powder Blue"
+    },
+    {
+        "name": "Leona Wide-263-ODF",
+        "color": "Smoky Pearl Tortoise"
+    },
+    {
+        "name": "Leona Wide-575-ODF",
+        "color": "Sedona Tortoise with Mojave Mauve"
+    },
+    {
+        "name": "Fielder Wide-115-ODF",
+        "color": "Cognac Tortoise Matte"
+    },
+    {
+        "name": "Sun_Fielder Wide-115-SRW",
+        "color": "Cognac Tortoise Matte"
+    },
+    {
+        "name": "Toula-1379-ODF",
+        "color": "Praline with Riesling"
+    },
+    {
+        "name": "Toula-2173-ODF",
+        "color": "Tanzanite Tortoise with Polished Gold"
+    },
+    {
+        "name": "Rawlins Wide-1228-ODF",
+        "color": "Jet Black with Brushed Ink"
+    },
+    {
+        "name": "Sun_Rawlins Wide-1228-SRW",
+        "color": "Jet Black with Brushed Ink"
+    },
+    {
+        "name": "Clark-140-ODF",
+        "color": "Blue Marblewood"
+    },
+    {
+        "name": "Kian-1226-ODF",
+        "color": "Black Oak Tortoise with Brushed Ink"
+    },
+    {
+        "name": "Sun_Kian-1226-SRW",
+        "color": "Black Oak Tortoise with Brushed Ink"
+    },
+    {
+        "name": "Alford-238-ODF",
+        "color": "Teal Tortoise"
+    },
+    {
+        "name": "Taye Wide-223-ODF",
+        "color": "Opal Tortoise"
+    },
+    {
+        "name": "Sun_Taye Wide-302-SRW",
+        "color": "Black Oak Tortoise"
+    },
+    {
+        "name": "Taye Wide-897-ODF",
+        "color": "Buckwheat"
+    },
+    {
+        "name": "Sun_Taye-302-SRW",
+        "color": "Black Oak Tortoise"
+    },
+    {
+        "name": "Denby-173-ODF",
+        "color": "Tanzanite Tortoise"
+    },
+    {
+        "name": "Denby-229-ODF",
+        "color": "Striped Affogato"
+    },
+    {
+        "name": "Sun_Laurel-245-SRW",
+        "color": "Pearled Tortoise"
+    },
+    {
+        "name": "Sun_Laurel-3708-SRW",
+        "color": "Forest Green with Riesling"
+    },
+    {
+        "name": "Priya-173-ODF",
+        "color": "Tanzanite Tortoise"
+    },
+    {
+        "name": "Camila Wide-578-ODF",
+        "color": "Oxblood with Striped Elm"
+    },
+    {
+        "name": "Chelsea-252-ODF",
+        "color": "Violet Magnolia"
+    },
+    {
+        "name": "Langhorne-200-ODF",
+        "color": "Whiskey Tortoise"
+    },
+    {
+        "name": "Langhorne-450-ODF",
+        "color": "Marbled Grey"
+    },
+    {
+        "name": "Sanaa Wide-2308-ODF",
+        "color": "Polished Gold with Oak Barrel"
+    },
+    {
+        "name": "Carlotta Wide-2403-ODF",
+        "color": "Polished Gold"
+    },
+    {
+        "name": "Sun_Carlotta Wide-2403-SRW",
+        "color": "Polished Gold"
+    },
+    {
+        "name": "Sun_Vela Extra Wide-1633-SRW",
+        "color": "Terracotta with Polished Gold"
+    },
+    {
+        "name": "Vela Extra Wide-3102-ODF",
+        "color": "Jet Black with Polished Gold"
+    },
+    {
+        "name": "Sun_Vela Extra Wide-3102-SRW",
+        "color": "Jet Black with Polished Gold"
+    },
+    {
+        "name": "Carmel Extra Wide-100-ODF",
+        "color": "Jet Black"
+    },
+    {
+        "name": "Sun_Carmel Extra Wide-100-SRW",
+        "color": "Jet Black"
+    },
+    {
+        "name": "Sun_Carmel Extra Wide-515-SRW",
+        "color": "Strawberry Rhubarb"
+    },
+    {
+        "name": "Sun_Adira Wide-302-SRW",
+        "color": "Black Oak Tortoise"
+    },
+    {
+        "name": "Sun_Ada Wide-247-SRW",
+        "color": "Acorn Tortoise"
+    },
+    {
+        "name": "Sun_Ada Wide-708-SRW",
+        "color": "Forest Green"
+    },
+    {
+        "name": "Sun_Aubrey LBF-1100-SRW",
+        "color": "Jet Black"
+    },
+    {
+        "name": "Sun_Aubrey LBF-195-SRW",
+        "color": "Marzipan Tortoise"
+    },
+    {
+        "name": "Sun_Aubrey Narrow-1100-SRW",
+        "color": "Jet Black"
+    },
+    {
+        "name": "Sun_Aubrey Narrow-195-SRW",
+        "color": "Marzipan Tortoise"
+    },
+    {
+        "name": "Sun_Aubrey-1100-SRW",
+        "color": "Jet Black"
+    },
+    {
+        "name": "Sun_Aubrey-171-SRW",
+        "color": "Garnet Tortoise"
+    },
+    {
+        "name": "Sun_Aubrey-195-SRW",
+        "color": "Marzipan Tortoise"
+    },
+    {
+        "name": "Sun_Augusta Wide-281-SRW",
+        "color": "Sugar Maple Fade"
+    },
+    {
+        "name": "Sun_Augusta Wide-850-SRW",
+        "color": "Confetti Tortoise"
+    },
+    {
+        "name": "Sun_Barkley Extra Wide LBF-103-SRW",
+        "color": "Black Matte Eclipse"
+    },
+    {
+        "name": "Sun_Barkley Extra Wide-103-SRW",
+        "color": "Black Matte Eclipse"
+    },
+    {
+        "name": "Sun_Barkley LBF-103-SRW",
+        "color": "Black Matte Eclipse"
+    },
+    {
+        "name": "Sun_Barkley Narrow-103-SRW",
+        "color": "Black Matte Eclipse"
+    },
+    {
+        "name": "Sun_Barkley Wide LBF-103-SRW",
+        "color": "Black Matte Eclipse"
+    },
+    {
+        "name": "Sun_Barkley Wide-103-SRW",
+        "color": "Black Matte Eclipse"
+    },
+    {
+        "name": "Sun_Barkley-103-SRW",
+        "color": "Black Matte Eclipse"
+    },
+    {
+        "name": "Sun_Beale-100-SRW",
+        "color": "Jet Black"
+    },
+    {
+        "name": "Sun_Beale-283-SRW",
+        "color": "Cognac Tortoise"
+    },
+    {
+        "name": "Sun_Bette Wide-336-SRW",
+        "color": "Frost"
+    },
+    {
+        "name": "Sun_Bette Wide-937-SRW",
+        "color": "Sesame Tortoise"
+    },
+    {
+        "name": "Sun_Betz Extra Wide-513-SRW",
+        "color": "Raven Matte"
+    },
+    {
+        "name": "Sun_Betz Extra Wide-721-SRW",
+        "color": "Balsam Matte"
+    },
+    {
+        "name": "Sun_Biren Narrow-167-SRW",
+        "color": "Dove Grey"
+    },
+    {
+        "name": "Sun_Biren Narrow-284-SRW",
+        "color": "Cognac Tortoise Fade"
+    },
+    {
+        "name": "Sun_Blaise-215-SRW",
+        "color": "Woodgrain Tortoise"
+    },
+    {
+        "name": "Sun_Bowlin-458-SRW",
+        "color": "Jet Black with Brioche Tortoise"
+    },
+    {
+        "name": "Sun_Bowlin-727-SRW",
+        "color": "Striped Moss"
+    },
+    {
+        "name": "Sun_Cawley-100-SRW",
+        "color": "Jet Black"
+    },
+    {
+        "name": "Sun_Cawley-208-SRW",
+        "color": "Oak Resin"
+    },
+    {
+        "name": "Sun_Cleo Wide-7100-SRW",
+        "color": "Jet Black with Rose Gold"
+    },
+    {
+        "name": "Sun_Cleo Wide-7244-SRW",
+        "color": "Pearled Tortoise with Riesling"
+    },
+    {
+        "name": "Sun_Cooper Wide-3302-SRW",
+        "color": "Black Oak Tortoise with Polished Gold"
+    },
+    {
+        "name": "Sun_Cooper-3302-SRW",
+        "color": "Black Oak Tortoise with Polished Gold"
+    },
+    {
+        "name": "Sun_Cooper-9100-SRW",
+        "color": "Jet Black with Riesling"
+    },
+    {
+        "name": "Sun_Downing Extra Wide-271-SRW",
+        "color": "English Oak Matte"
+    },
+    {
+        "name": "Sun_Downing Wide-271-SRW",
+        "color": "English Oak Matte"
+    },
+    {
+        "name": "Sun_Downing-100-SRW",
+        "color": "Jet Black"
+    },
+    {
+        "name": "Sun_Downing-242-SRW",
+        "color": "Walnut Tortoise"
+    },
+    {
+        "name": "Sun_Downing-270-SRW",
+        "color": "English Oak"
+    },
+    {
+        "name": "Sun_Easley Wide-175-SRW",
+        "color": "Striped Pacific"
+    },
+    {
+        "name": "Sun_Easley Wide-282-SRW",
+        "color": "Lager Tortoise"
+    },
+    {
+        "name": "Sun_Elio Wide-243-SRW",
+        "color": "Black Walnut"
+    },
+    {
+        "name": "Sun_Elio Wide-342-SRW",
+        "color": "Inlet Crystal"
+    },
+    {
+        "name": "Sun_Elio-243-SRW",
+        "color": "Black Walnut"
+    },
+    {
+        "name": "Sun_Fairfax-1173-SRW",
+        "color": "Tanzanite Tortoise with Polished Silver"
+    },
+    {
+        "name": "Sun_Fairfax-8530-SRW",
+        "color": "Cognac Tortoise with Polished Gold"
+    }
+]

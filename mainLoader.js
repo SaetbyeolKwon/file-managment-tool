@@ -10,6 +10,8 @@ const navLinks = [
     { href: 'batch8NC.html', text: 'Batch 8 NC' },
     { href: 'batch9.html', text: 'Batch 9' },
     { href: 'batch9NC.html', text: 'Batch 9 NC' },
+    { href: 'batch10.html', text: 'Batch 10' },
+    { href: 'batch10NC.html', text: 'Batch 10 NC' },
 ];
 
 function generateNavigation() {

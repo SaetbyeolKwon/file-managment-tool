@@ -1,0 +1,214 @@
+[
+    {
+        "name": "Hemmings-319-ODF",
+        "color": "Viridian"
+    },
+    {
+        "name": "Cornelia-554-ODF",
+        "color": "Soapstone"
+    },
+    {
+        "name": "Copley Wide-344-ODF",
+        "color": "Hudson Blue Fade"
+    },
+    {
+        "name": "Sun_Copley Wide-344-SRW",
+        "color": "Hudson Blue Fade"
+    },
+    {
+        "name": "Copley Wide-899-ODF",
+        "color": "Cacao Crystal"
+    },
+    {
+        "name": "Sun_Copley Wide-899-SRW",
+        "color": "Cacao Crystal"
+    },
+    {
+        "name": "Leona Wide-633-ODF",
+        "color": "Terracotta"
+    },
+    {
+        "name": "Fielder Wide-128-ODF",
+        "color": "Topaz Matte Fade"
+    },
+    {
+        "name": "Sun_Fielder Wide-128-SRW",
+        "color": "Topaz Matte Fade"
+    },
+    {
+        "name": "Rawlins Wide-1227-ODF",
+        "color": "Midnight Tortoise Fade with Polished Silver"
+    },
+    {
+        "name": "Sun_Rawlins Wide-1227-SRW",
+        "color": "Midnight Tortoise Fade with Polished Silver"
+    },
+    {
+        "name": "Kian-1223-ODF",
+        "color": "Laguna Crystal with Riesling"
+    },
+    {
+        "name": "Sun_Kian-1223-SRW",
+        "color": "Laguna Crystal with Riesling"
+    },
+    {
+        "name": "Alford-134-ODF",
+        "color": "Inkwell Crystal Fade"
+    },
+    {
+        "name": "Sun_Taye Wide-206-SRW",
+        "color": "Crystal Smoke"
+    },
+    {
+        "name": "Sun_Taye-206-SRW",
+        "color": "Crystal Smoke"
+    },
+    {
+        "name": "Laurel LBF-615-ODF",
+        "color": "Tea Rose Fade"
+    },
+    {
+        "name": "Sun_Laurel LBF-615-SRW",
+        "color": "Tea Rose Fade"
+    },
+    {
+        "name": "Sun_Laurel-615-SRW",
+        "color": "Tea Rose Fade"
+    },
+    {
+        "name": "Sun_Laurel-664-SRW",
+        "color": "Elderflower Crystal"
+    },
+    {
+        "name": "Priya-379-ODF",
+        "color": "Praline"
+    },
+    {
+        "name": "Camila Wide-703-ODF",
+        "color": "Forest Green with Majorca Mint"
+    },
+    {
+        "name": "Berman-325-ODF",
+        "color": "Eastern Bluebird Fade"
+    },
+    {
+        "name": "Leland-899-ODF",
+        "color": "Cacao Crystal"
+    },
+    {
+        "name": "Sun_Leland-899-SRW",
+        "color": "Cacao Crystal"
+    },
+    {
+        "name": "Vela Extra Wide-1236-ODF",
+        "color": "Aventurine Tortoise Fade with Polished Gold"
+    },
+    {
+        "name": "Sun_Vela Extra Wide-1236-SRW",
+        "color": "Aventurine Tortoise Fade with Polished Gold"
+    },
+    {
+        "name": "Sun_Adira Wide-324-SRW",
+        "color": "Ganache Tortoise Fade"
+    },
+    {
+        "name": "Sun_Barkley Extra Wide LBF-125-SRW",
+        "color": "Antique Shale Fade"
+    },
+    {
+        "name": "Sun_Barkley Extra Wide-125-SRW",
+        "color": "Antique Shale Fade"
+    },
+    {
+        "name": "Sun_Barkley LBF-125-SRW",
+        "color": "Antique Shale Fade"
+    },
+    {
+        "name": "Sun_Barkley Narrow-125-SRW",
+        "color": "Antique Shale Fade"
+    },
+    {
+        "name": "Sun_Barkley Wide LBF-125-SRW",
+        "color": "Antique Shale Fade"
+    },
+    {
+        "name": "Sun_Barkley Wide-125-SRW",
+        "color": "Antique Shale Fade"
+    },
+    {
+        "name": "Sun_Barkley Wide-754-SRW",
+        "color": "Azure Crystal"
+    },
+    {
+        "name": "Sun_Barkley Wide-899-SRW",
+        "color": "Cacao Crystal"
+    },
+    {
+        "name": "Sun_Barkley-125-SRW",
+        "color": "Antique Shale Fade"
+    },
+    {
+        "name": "Sun_Barkley-754-SRW",
+        "color": "Azure Crystal"
+    },
+    {
+        "name": "Sun_Barkley-899-SRW",
+        "color": "Cacao Crystal"
+    },
+    {
+        "name": "Sun_Beale-712-SRW",
+        "color": "Rosemary Crystal"
+    },
+    {
+        "name": "Sun_Blaise-704-SRW",
+        "color": "Palm Crystal"
+    },
+    {
+        "name": "Sun_Catori Extra Wide-1678-SRW",
+        "color": "Honeysuckle with Polished Gold"
+    },
+    {
+        "name": "Sun_Cawley-206-SRW",
+        "color": "Crystal Smoke"
+    },
+    {
+        "name": "Sun_Cooper Wide-1714-SRW",
+        "color": "Seaweed Crystal with Riesling"
+    },
+    {
+        "name": "Sun_Cooper-1714-SRW",
+        "color": "Seaweed Crystal with Riesling"
+    },
+    {
+        "name": "Sun_Downing Extra Wide-344-SRW",
+        "color": "Hudson Blue Fade"
+    },
+    {
+        "name": "Sun_Downing Narrow-344-SRW",
+        "color": "Hudson Blue Fade"
+    },
+    {
+        "name": "Sun_Downing Wide-125-SRW",
+        "color": "Antique Shale Fade"
+    },
+    {
+        "name": "Sun_Downing Wide-344-SRW",
+        "color": "Hudson Blue Fade"
+    },
+    {
+        "name": "Sun_Downing-125-SRW",
+        "color": "Antique Shale Fade"
+    },
+    {
+        "name": "Sun_Downing-344-SRW",
+        "color": "Hudson Blue Fade"
+    },
+    {
+        "name": "Sun_Elio Wide-500-SRW",
+        "color": "Crystal"
+    },
+    {
+        "name": "Sun_Elio-500-SRW",
+        "color": "Crystal"
+    }
+]

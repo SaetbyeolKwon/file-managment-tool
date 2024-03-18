@@ -70,7 +70,6 @@ document.addEventListener('DOMContentLoaded', async function() {
             const file = e.dataTransfer.files[0];
             filesToZip[item.name] = file;
             dropCell.textContent = `${file.name}`;
-            dropCell.classList.add('file-uploaded'); // Change background color when file is uploaded
             checkFileName(dropCell, item.name, file.name);
         });
 
