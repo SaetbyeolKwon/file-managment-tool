@@ -1,0 +1,338 @@
+[
+    {
+        "name": "Sun_Fisher Wide-2101-SRW",
+        "color": "Brushed Ink"
+    },
+    {
+        "name": "Sun_Fisher Wide-2403-SRW",
+        "color": "Polished Gold"
+    },
+    {
+        "name": "Sun_Fisher-2104-SRW",
+        "color": "Brushed Ink"
+    },
+    {
+        "name": "Sun_Fisher-2407-SRW",
+        "color": "Polished Gold"
+    },
+    {
+        "name": "Sun_Gael-283-SRW",
+        "color": "Cognac Tortoise"
+    },
+    {
+        "name": "Sun_Gemma-254-SRW",
+        "color": "Adobe Tortoise"
+    },
+    {
+        "name": "Sun_Gemma-283-SRW",
+        "color": "Cognac Tortoise"
+    },
+    {
+        "name": "Sun_Gemma-356-SRW",
+        "color": "Lapis Crystal"
+    },
+    {
+        "name": "Sun_Griffin-264-SRW",
+        "color": "Burnt Honeycomb Tortoise"
+    },
+    {
+        "name": "Sun_Hatcher Wide-101-SRW",
+        "color": "Jet Black Matte"
+    },
+    {
+        "name": "Sun_Hatcher Wide-225-SRW",
+        "color": "Oak Barrel"
+    },
+    {
+        "name": "Sun_Hatcher-101-SRW",
+        "color": "Jet Black Matte"
+    },
+    {
+        "name": "Sun_Hatcher-225-SRW",
+        "color": "Oak Barrel"
+    },
+    {
+        "name": "Sun_Hayes LBF-100-SRW",
+        "color": "Jet Black"
+    },
+    {
+        "name": "Sun_Hayes LBF-197-SRW",
+        "color": "Mesquite Tortoise"
+    },
+    {
+        "name": "Sun_Hayes Narrow-100-SRW",
+        "color": "Jet Black"
+    },
+    {
+        "name": "Sun_Hayes Narrow-174-SRW",
+        "color": "Riverbed Tortoise"
+    },
+    {
+        "name": "Sun_Hayes Wide-100-SRW",
+        "color": "Jet Black"
+    },
+    {
+        "name": "Sun_Hayes Wide-174-SRW",
+        "color": "Riverbed Tortoise"
+    },
+    {
+        "name": "Sun_Hayes Wide-197-SRW",
+        "color": "Mesquite Tortoise"
+    },
+    {
+        "name": "Sun_Hayes-100-SRW",
+        "color": "Jet Black"
+    },
+    {
+        "name": "Sun_Hayes-174-SRW",
+        "color": "Riverbed Tortoise"
+    },
+    {
+        "name": "Sun_Janelle Wide-100-SRW",
+        "color": "Jet Black"
+    },
+    {
+        "name": "Sun_Janelle Wide-379-SRW",
+        "color": "Praline"
+    },
+    {
+        "name": "Sun_Janelle Wide-415-SRW",
+        "color": "Seashore Tortoise"
+    },
+    {
+        "name": "Sun_Jepson-103-SRW",
+        "color": "Black Matte Eclipse"
+    },
+    {
+        "name": "Sun_Jepson-208-SRW",
+        "color": "Oak Resin"
+    },
+    {
+        "name": "Sun_Julio Wide-2152-SRW",
+        "color": "Polished Silver"
+    },
+    {
+        "name": "Sun_Karina Extra Wide-229-SRW",
+        "color": "Striped Affogato"
+    },
+    {
+        "name": "Sun_Laney-7100-SRW",
+        "color": "Jet Black with Rose Gold"
+    },
+    {
+        "name": "Sun_Laney-8532-SRW",
+        "color": "Adobe Tortoise with Polished Gold"
+    },
+    {
+        "name": "Sun_Leta-172-SRW",
+        "color": "Black Currant Tortoise"
+    },
+    {
+        "name": "Sun_Lonnie Wide-647-SRW",
+        "color": "cherry-pepper"
+    },
+    {
+        "name": "Sun_Lottie Extra Wide-300-SRW",
+        "color": "Ganache"
+    },
+    {
+        "name": "Sun_Lyon-113-SRW",
+        "color": "Black Sky Eclipse"
+    },
+    {
+        "name": "Sun_Lyon-296-SRW",
+        "color": "Rye Tortoise Matte"
+    },
+    {
+        "name": "Sun_Masha Wide-172-SRW",
+        "color": "Black Currant Tortoise"
+    },
+    {
+        "name": "Sun_Masha Wide-648-SRW",
+        "color": "Daylily"
+    },
+    {
+        "name": "Sun_Merrick-2152-SRW",
+        "color": "Polished Silver"
+    },
+    {
+        "name": "Sun_Merrick-2403-SRW",
+        "color": "Polished Gold"
+    },
+    {
+        "name": "Sun_Nalo Wide-681-SRW",
+        "color": "Manuka"
+    },
+    {
+        "name": "Sun_Odell Wide-513-SRW",
+        "color": "Raven Matte"
+    },
+    {
+        "name": "Sun_Odell Wide-898-SRW",
+        "color": "Mocha Matte"
+    },
+    {
+        "name": "Sun_Perkins LBF-103-SRW",
+        "color": "Black Matte Eclipse"
+    },
+    {
+        "name": "Sun_Perkins Wide LBF-103-SRW",
+        "color": "Black Matte Eclipse"
+    },
+    {
+        "name": "Sun_Perkins Wide-103-SRW",
+        "color": "Black Matte Eclipse"
+    },
+    {
+        "name": "Sun_Perkins Wide-264-SRW",
+        "color": "Burnt Honeycomb Tortoise"
+    },
+    {
+        "name": "Sun_Perkins-103-SRW",
+        "color": "Black Matte Eclipse"
+    },
+    {
+        "name": "Sun_Perkins-264-SRW",
+        "color": "Burnt Honeycomb Tortoise"
+    },
+    {
+        "name": "Sun_Peter Parker II-646-SRW",
+        "color": "Brick"
+    },
+    {
+        "name": "Peter Parker-132-ODF",
+        "color": "Pumpernickel Tortoise"
+    },
+    {
+        "name": "Sun_Rachel-197-SRW",
+        "color": "Mesquite Tortoise"
+    },
+    {
+        "name": "Sun_Renton Narrow-302-SRW",
+        "color": "Black Oak Tortoise"
+    },
+    {
+        "name": "Sun_Renton-302-SRW",
+        "color": "Black Oak Tortoise"
+    },
+    {
+        "name": "Sun_Rhea LBF-100-SRW",
+        "color": "Jet Black"
+    },
+    {
+        "name": "Sun_Rhea LBF-542-SRW",
+        "color": "Truffle Tortoise"
+    },
+    {
+        "name": "Sun_Rhea Narrow-100-SRW",
+        "color": "Jet Black"
+    },
+    {
+        "name": "Sun_Rhea Narrow-542-SRW",
+        "color": "Truffle Tortoise"
+    },
+    {
+        "name": "Sun_Rhea-100-SRW",
+        "color": "Jet Black"
+    },
+    {
+        "name": "Sun_Rhea-542-SRW",
+        "color": "Truffle Tortoise"
+    },
+    {
+        "name": "Sun_Rosa Wide-808-SRW",
+        "color": "Forest Green with Sand"
+    },
+    {
+        "name": "Sun_Ryland Medium-283-SRW",
+        "color": "Cognac Tortoise"
+    },
+    {
+        "name": "Sun_Ryland Wide-283-SRW",
+        "color": "Cognac Tortoise"
+    },
+    {
+        "name": "Sun_Samir Wide-302-SRW",
+        "color": "Black Oak Tortoise"
+    },
+    {
+        "name": "Sun_Samir Wide-337-SRW",
+        "color": "Big Sur Blue"
+    },
+    {
+        "name": "Sun_Sutton LBF-100-SRW",
+        "color": "Jet Black"
+    },
+    {
+        "name": "Sun_Sutton LBF-242-SRW",
+        "color": "Walnut Tortoise"
+    },
+    {
+        "name": "Sun_Sutton Wide-100-SRW",
+        "color": "Jet Black"
+    },
+    {
+        "name": "Sun_Sutton Wide-242-SRW",
+        "color": "Walnut Tortoise"
+    },
+    {
+        "name": "Sun_Sutton-100-SRW",
+        "color": "Jet Black"
+    },
+    {
+        "name": "Sun_Sutton-242-SRW",
+        "color": "Walnut Tortoise"
+    },
+    {
+        "name": "Sun_Sydney-158-SRW",
+        "color": "Brioche Tortoise"
+    },
+    {
+        "name": "Sun_Sydney-174-SRW",
+        "color": "Riverbed Tortoise"
+    },
+    {
+        "name": "Sun_Toddy Narrow-267-SRW",
+        "color": "Sequoia Tortoise"
+    },
+    {
+        "name": "Sun_Toddy Wide-228-SRW",
+        "color": "Striped Beach"
+    },
+    {
+        "name": "Sun_Toddy Wide-267-SRW",
+        "color": "Sequoia Tortoise"
+    },
+    {
+        "name": "Sun_Toddy-267-SRW",
+        "color": "Sequoia Tortoise"
+    },
+    {
+        "name": "Sun_Topper Wide-103-SRW",
+        "color": "Black Matte Eclipse"
+    },
+    {
+        "name": "Sun_Topper Wide-939-SRW",
+        "color": "Hazelnut Tortoise Matte"
+    },
+    {
+        "name": "Sun_Topper-103-SRW",
+        "color": "Black Matte Eclipse"
+    },
+    {
+        "name": "Sun_Topper-939-SRW",
+        "color": "Hazelnut Tortoise Matte"
+    },
+    {
+        "name": "Sun_Venom-452-SRW",
+        "color": "Fog"
+    },
+    {
+        "name": "Sun_Zora-100-SRW",
+        "color": "Jet Black"
+    },
+    {
+        "name": "Sun_Zora-251-SRW",
+        "color": "Gobi Desert Tortoise"
+    }
+]

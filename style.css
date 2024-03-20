@@ -63,13 +63,14 @@ body {
 
 #main-nav ul {
     list-style: none;
-    padding-left: 0;
+    padding: 10px 20px;
     text-align: center;
 }
 
 #main-nav ul li {
     display: inline-block;
     margin-right: 20px;
+    margin-bottom: 30px;
 }
 
 #main-nav ul li a {
